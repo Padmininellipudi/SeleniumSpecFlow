@@ -1,0 +1,19 @@
+Feb 22- Devops, Github
+Feb 23- Program.cs first program login https://us02web.zoom.us/rec/share/1EhF5UbIwKc36hi-Lk9sNaaNivjjXnncv4cohrQ4tTC_OiVQnZKKFKP09fvbo9Q8.YnZIPtvKxjWiG0Qx
+Feb 24- first program login,TM, enter fields
+March 1- Adding Login page, home page, tm page
+March 8- Specflow Stepdefinitions
+March 9- Putting code from commondriver into stepdefinition
+
+
+Microsoft.netcore.app
+nunit
+nunit.testadapter
+
+selenium.webdriver
+selenium.support
+selenium.webdriver.chromedriver
+
+SpecFlow
+SpecFlow.NUnit
+specflow.tools.msbuild
